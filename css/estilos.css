@@ -1,6 +1,13 @@
 body{
+    background: burlywood;
+}
+#container{
+    border: 1px black solid;
+    margin:  0 auto;
+}
+
+#post{
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: khaki;
-    text-transform: uppercase;
+    color: brown;
+    font-size: 20px;
 }

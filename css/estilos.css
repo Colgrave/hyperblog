@@ -44,4 +44,14 @@ body{
 
 .container-img{
     margin: 0 20px;
+    }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #383838;
+    color: aliceblue;
+    font-size: 20px;
+    height: 40px;
 }
